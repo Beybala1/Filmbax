@@ -1,6 +1,5 @@
 <?php
 session_start();
-$con = mysqli_connect('localhost','filmbaxt_beybala','beybala1','filmbaxt_filmbax');
 include 'kateqoriya_style.html';
 ?>
 <html lang="az-AZ">
