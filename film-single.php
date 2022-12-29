@@ -1,6 +1,5 @@
 <?php
 session_start();
-$con = mysqli_connect('localhost','filmbaxt_beybala','beybala1','filmbaxt_filmbax');
 date_default_timezone_set('Asia/Baku');
 $tarix = date('Y-m-d H:i:s');
 ?>
