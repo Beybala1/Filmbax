@@ -1,6 +1,3 @@
-<?php session_start();
-$con = mysqli_connect('localhost','filmbaxt_beybala','beybala1','filmbaxt_filmbax');
-?>
 <html lang="az-AZ">
 <head>
 <meta charset="utf-8">
