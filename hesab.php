@@ -1,6 +1,5 @@
 <?php
 session_start();
-$con = mysqli_connect('localhost','filmbaxt_beybala','beybala1','filmbaxt_filmbax');
 $tarix = date('Y-m-d H:i:s');
 
 if(isset($_SESSION['email']) && isset($_SESSION['parol']))
